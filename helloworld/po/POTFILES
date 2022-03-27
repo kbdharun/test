@@ -1,7 +1,0 @@
-data/org.dharun.helloworld.desktop.in
-data/org.dharun.helloworld.appdata.xml.in
-data/org.dharun.helloworld.gschema.xml
-src/helloworld-window.ui
-src/main.c
-src/helloworld-window.c
-
